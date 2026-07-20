@@ -91,3 +91,8 @@ One caveat worth knowing: KV writes can take a moment to show up everywhere
 in the world (it's "eventually consistent"), so if two people load the page
 at the exact same instant in different countries, the count might briefly
 look slightly off. For a visit counter, that's harmless.
+
+---
+
+**Next:** [Module 3 — a real address, and a security switch](MODULE-3.md)
+(needs a domain name — read the note at the top before starting).
