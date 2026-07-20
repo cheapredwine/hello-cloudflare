@@ -100,3 +100,8 @@ to every request in real time.
 
 The whole thing costs nothing and handles millions of requests per month on
 the free tier.
+
+---
+
+**Next:** [Module 2 — give your worker a memory](MODULE-2.md) with a
+KV-backed visit counter.
